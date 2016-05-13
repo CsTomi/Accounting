@@ -1,0 +1,50 @@
+{
+    "test": [],
+    "admin": [
+        {
+            "7": [
+                {
+                    "renewed": 0,
+                    "disk_size": 5368709120,
+                    "started": "2016.05.11 07:07:46.956867",
+                    "cores_priority": 30,
+                    "used_ram": 512,
+                    "finished": "2016.05.11 07:19:23.096789",
+                    "cost": "Not yet.",
+                    "used_cores": 2,
+                    "usaged_time": "0:11:36.139922"
+                },
+                {
+                    "used_cores": 2,
+                    "used_disk": 5368709,
+                    "used_ram": 512,
+                    "run_time": "0:11:36.139922"
+                }
+            ],
+            "6": [
+                {
+                    "renewed": 0,
+                    "disk_size": 5368709120,
+                    "started": "2016.05.11 07:07:46.482341",
+                    "cores_priority": 30,
+                    "used_ram": 512,
+                    "finished": "2016.05.11 07:12:33.389403",
+                    "cost": "Not yet.",
+                    "used_cores": 2,
+                    "usaged_time": "0:04:46.907062"
+                },
+                {
+                    "renewed": 0,
+                    "disk_size": 5368709120,
+                    "started": "2016.05.11 07:15:36.653747",
+                    "cores_priority": 30,
+                    "used_ram": 512,
+                    "finished": "2016.05.11 07:20:02.038102",
+                    "cost": "Not yet.",
+                    "used_cores": 2,
+                    "usaged_time": "0:04:25.384355"
+                }
+            ]
+        }
+    ]
+}

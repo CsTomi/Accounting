@@ -1,0 +1,178 @@
+[
+    {
+        "disks": [
+            {
+                "datastore": 1,
+                "id": 8,
+                "size": 5368709120
+            }
+        ],
+        "activity_code": "vm.Instance.create",
+        "started": "2016.05.11 07:07:41.464683",
+        "ram": 512,
+        "is_running": false,
+        "instance_id": 6,
+        "finished": "2016.05.11 07:07:42.421108",
+        "cores": 2,
+        "user_id": 1,
+        "core_prio": 30,
+        "id": 106
+    },
+    {
+        "disks": [
+            {
+                "datastore": 1,
+                "id": 8,
+                "size": 5368709120
+            }
+        ],
+        "activity_code": "vm.Instance.deploy",
+        "started": "2016.05.11 07:07:42.708332",
+        "ram": 512,
+        "is_running": false,
+        "instance_id": 6,
+        "finished": "2016.05.11 07:07:46.482341",
+        "cores": 2,
+        "user_id": 1,
+        "core_prio": 30,
+        "id": 110
+    },
+    {
+        "disks": [
+            {
+                "datastore": 1,
+                "id": 8,
+                "size": 5368709120
+            }
+        ],
+        "activity_code": "vm.Instance.sleep",
+        "started": "2016.05.11 07:12:33.389403",
+        "ram": 512,
+        "is_running": false,
+        "instance_id": 6,
+        "finished": "2016.05.11 07:12:35.569868",
+        "cores": 2,
+        "user_id": 1,
+        "core_prio": 30,
+        "id": 151
+    },
+    {
+        "disks": [
+            {
+                "datastore": 1,
+                "id": 8,
+                "size": 5368709120
+            }
+        ],
+        "activity_code": "vm.Instance.wake_up",
+        "started": "2016.05.11 07:15:34.544848",
+        "ram": 512,
+        "is_running": false,
+        "instance_id": 6,
+        "finished": "2016.05.11 07:15:36.653747",
+        "cores": 2,
+        "user_id": 1,
+        "core_prio": 30,
+        "id": 162
+    },
+    {
+        "disks": [
+            {
+                "datastore": 1,
+                "id": 8,
+                "size": 5368709120
+            }
+        ],
+        "activity_code": "vm.Instance.sleep",
+        "started": "2016.05.11 07:20:02.038102",
+        "ram": 512,
+        "is_running": false,
+        "instance_id": 6,
+        "finished": "2016.05.11 07:20:03.343330",
+        "cores": 2,
+        "user_id": 1,
+        "core_prio": 30,
+        "id": 185
+    },
+    {
+        "disks": [
+            {
+                "datastore": 1,
+                "id": 9,
+                "size": 5368709120
+            }
+        ],
+        "activity_code": "vm.Instance.create",
+        "started": "2016.05.11 07:07:42.482801",
+        "ram": 512,
+        "is_running": false,
+        "instance_id": 7,
+        "finished": "2016.05.11 07:07:42.659952",
+        "cores": 2,
+        "user_id": 1,
+        "core_prio": 30,
+        "id": 108
+    },
+    {
+        "disks": [
+            {
+                "datastore": 1,
+                "id": 9,
+                "size": 5368709120
+            }
+        ],
+        "activity_code": "vm.Instance.deploy",
+        "started": "2016.05.11 07:07:42.727121",
+        "ram": 512,
+        "is_running": false,
+        "instance_id": 7,
+        "finished": "2016.05.11 07:07:46.956867",
+        "cores": 2,
+        "user_id": 1,
+        "core_prio": 30,
+        "id": 111
+    },
+    {
+        "disks": [
+            {
+                "datastore": 1,
+                "id": 9,
+                "size": 5368709120
+            }
+        ],
+        "activity_code": "vm.Instance.sleep",
+        "started": "2016.05.11 07:19:23.096789",
+        "ram": 512,
+        "is_running": false,
+        "instance_id": 7,
+        "finished": "2016.05.11 07:19:24.667455",
+        "cores": 2,
+        "user_id": 1,
+        "core_prio": 30,
+        "id": 182
+    },
+    {
+        "ram": -1,
+        "user_id": 1,
+        "started": "2016.05.11 07:15:09.634869",
+        "disks": [],
+        "instance_id": 9,
+        "finished": "2016.05.11 07:15:11.094159",
+        "cores": -1,
+        "core_prio": -1,
+        "id": 155,
+        "activity_code": "vm.Instance.sleep"
+    },
+    {
+        "ram": -1,
+        "user_id": 1,
+        "started": "2016.05.11 07:15:19.351157",
+        "disks": [],
+        "instance_id": 9,
+        "finished": "2016.05.11 07:15:20.781700",
+        "cores": -1,
+        "core_prio": -1,
+        "id": 158,
+        "activity_code": "vm.Instance.destroy"
+    }
+]"admin"
